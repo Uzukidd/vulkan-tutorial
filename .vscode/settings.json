@@ -1,0 +1,7 @@
+{
+    "C_Cpp.default.includePath": [
+        "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include",
+        "${workspaceFolder}\\src",
+        "C:\\VulkanSDK\\1.4.304.1\\Include"
+    ]
+}
