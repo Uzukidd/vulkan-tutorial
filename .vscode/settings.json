@@ -1,6 +1,8 @@
 {
     "C_Cpp.default.includePath": [
         "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include",
+        "C:\\glfw-3.4.bin.WIN64\\include",
+        "C:\\glm",
         "${workspaceFolder}\\src",
         "C:\\VulkanSDK\\1.4.304.1\\Include"
     ]
