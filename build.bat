@@ -1,9 +1,5 @@
 @echo off
-
-call "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\Build\vcvars64.bat"
-
-SET VULKAN_SDK="C:\VulkanSDK\1.4.304.1"
-SET GLFW_SDK="C:\\glfw-3.4.bin.WIN64"
+call "%VCVARS64%"
 
 SET includes=/Isrc /I%VULKAN_SDK%/Include /I%GLFW_SDK%/include
 SET links=/link /LIBPATH:%VULKAN_SDK%/Lib /LIBPATH:%GLFW_SDK%/lib-vc2022 vulkan-1.lib glfw3dll.lib
