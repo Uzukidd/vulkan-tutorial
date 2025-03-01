@@ -2,9 +2,11 @@
 
 ## Change Logs
 
-2025.2.27 Lect.0 *Development environment*
+2025.2.27 Lect.0 *Development environment.*
 
 2025.2.28 Lect.1 *Base code, Instance, Validation layers. Changed to static linking.*
+
+2025.2.29 Lect.1 *Physical devices and queue families, Logical device and queues.*
 
 ## Requirements
 
